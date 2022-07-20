@@ -1,0 +1,18 @@
+h2{
+    font-family: "times new roman";
+}
+table{
+    
+    font-size: large;
+    font-family: "times new roman";
+}
+form{
+    font-family: "times new roman";
+}
+body{
+    background-image: url(bg7.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
